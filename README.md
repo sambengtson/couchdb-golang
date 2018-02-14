@@ -87,9 +87,9 @@ For example: regex(title, "^A") returns all documents whose title is begin with 
 
 ## Installation
 
-`go get -u -v github.com/leesper/couchdb-golang`
+`github.com/sambengtson/couchdb-golang`
 
-## Authors and acknowledgment
+## Orignial Authors and acknowledgment
 
 * [Philipp Winter](https://github.com/philippwinter)
 * [Serkan Sipahi](https://github.com/SerkanSipahi)
